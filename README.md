@@ -148,17 +148,19 @@ Recommendation system for treatment/pesticides
 
 Real-world field testing
 
-📄 Research Paper & Documentation
+## 📄 Research Paper / Conference Paper
 
-📄 Conference Paper (PDF)
+📑 **Title:** Crop Disease Detection Using Machine Learning-Based Image Classification  
+🏛 **Type:** Conference-Format Research Paper (BTP)  
+📅 **Year:** 2025  
 
-Crop Disease Detection Using Machine Learning-Based Image Classification 
+🔗 **Paper Link (PDF):**  
+> [Crop Disease Detection — Conference Paper ]([./Conference_Paper_BTP.pdf](https://drive.google.com/file/d/1xjJJ-IJaV1NlwQLQDrt0MHejw6XqFJsY/view?usp=drivesdk))
+> 🔗 **Paper Link (PDF):**  
+> [Crop Disease Detection — Research paper ]([./Conference_Paper_BTP.pdf](https://drive.google.com/file/d/1qec935PzSZ8_M8GzeWqqRUUEYKa4pxSG/view?usp=drivesdk))
 
-Conference_Paper_BTP
-
-📊 BTP Presentation (Final Viva)
-
-Crop Disease Detection Using ML (24 Slides) 
+📊 **Presentation (Viva):**  
+> [Final BTP Report]([./Final_End_Semester_BTP_Presentation.pdf](https://drive.google.com/file/d/1rO6MGjnKM1X1fmid9wDbToSsyquPD9X_/view?usp=drivesdk))
 
 Final End Semester BTP Present…
 
